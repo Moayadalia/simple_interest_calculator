@@ -22,7 +22,6 @@ function compute()
 }
 
 fubction SliderValue()
-    document.getElementById("rate_display").innerHTML = document.getElementById("rate").value;
 
 {
     var slider = document.getElementById("rate");
